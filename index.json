@@ -1,0 +1,11 @@
+{
+  "org": "cookiecutter",
+  "repo": "cookiecutter-django",
+  "versions": [
+    {
+      "commit": "e0c7d45a6b3a7847e3fede09303093c9dfba504c",
+      "tag": "2026.11.6",
+      "parsed_at": "2026-11-07T12:36:41.626967+00:00"
+    }
+  ]
+}
