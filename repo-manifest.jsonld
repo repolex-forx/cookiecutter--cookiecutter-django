@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cookiecutter/cookiecutter-django/commit/e0c7d45a6b3a7847e3fede09303093c9dfba504c",
       "git:hexsha": "e0c7d45a6b3a7847e3fede09303093c9dfba504c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2026.11.6"
     },
     {
